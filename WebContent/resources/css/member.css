@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+@IMPORT "common.css";
+#index-tab{width:75%;}
+#join-yes-btn{color:white}
+#join-yes-btn{color:white}
+.index-tr>td{border: 1px solid black; text-align: center;}
+.index-ul{width:200px;}
+.index-ul>li{border: 1px solid black; text-align: center;}
+.index-ul>li>a{text-decoration: none;}
+.member-span{font-size: 15px; width:120px; text-align:left}
+.input-size{width:150px;}
+
+/*member_search */
+#member_search_box{width:300px;pargin:0 auto;}
+#member_detail_tab{width:90%; margin:0 auto; text-align: center;}
+#member_detail_tab td:FIRST-CHILD{width: 180px;}
+#member_detail_tab td{border: 1px solid #808080; height:30px;}
+#member_list_tab{width:90%; margin:0 auto; text-align: center;}
+#member_list_tab th{text-align:center; background-color: white;height:40px;}
+#member_list_tab td{border-bottom: 1px solid #808080; height:35px;}
+
